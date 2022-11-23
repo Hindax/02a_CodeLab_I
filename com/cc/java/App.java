@@ -5,7 +5,6 @@ public class App {
     public static void main(String[] args) {
 
         int kontoStand = 10000;
-        // int neukontoStand = (kontoStand + 2);
         
         Konto konto1 = new Konto("Konto1", kontoStand, (kontoStand * 2));
         output(konto1.getName());
