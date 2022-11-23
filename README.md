@@ -8,3 +8,4 @@
 - Ändern Sie danach den jeweiligen Kontostand in den Objekten wie folgt:
 -  konto1 → Verdoppelung / konto2 → Verdreifachung / konto3 → Verzehnfachung
 - Geben Sie danach den aktuellen Kontostand der drei Objekte in die Konsole aus
+- Legen Sie von der Klasse Konto ein Klassendiagramm an.
